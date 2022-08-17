@@ -13791,6 +13791,12 @@ Source: AVX .. aphvc.pdf</description>
 </sheet>
 </sheets>
 <errors>
+<approved hash="106,1,109.22,96.52,ANLG2,,,,,"/>
+<approved hash="106,1,109.22,91.44,ANLG3,,,,,"/>
+<approved hash="106,1,116.84,109.22,DTCT0,,,,,"/>
+<approved hash="106,1,116.84,104.14,DTCT1,,,,,"/>
+<approved hash="106,1,116.84,99.06,DTCT2,,,,,"/>
+<approved hash="106,1,116.84,93.98,DTCT3,,,,,"/>
 <approved hash="113,1,130.071,89.431,FRAME1,,,,,"/>
 <approved hash="113,1,112.988,101.826,JP1,,,,,"/>
 </errors>
